@@ -39,7 +39,7 @@ A custom web browser built with PyQt5 and QtWebEngine, featuring a modern interf
 - Load extensions via the "Tools" menu.
 
 ## Deployment
-Available for download and testing via [GitHub Releases](https://github.com/yourusername/collins_browser/releases).
+Available for download and testing via [GitHub Releases]([https://github.com/yourusername/collins_browser/releases](https://github.com/colloceo/collins_browser/releases/download/initial-release/main.exe)).
 
 ## Contributing
 Feel free to fork, submit issues, or send pull requests!
