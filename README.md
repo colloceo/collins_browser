@@ -1,4 +1,3 @@
-```markdown
 # Collins Browser
 
 A custom web browser built with PyQt5 and QtWebEngine, featuring a modern interface and advanced functionalities.
@@ -47,4 +46,3 @@ Feel free to fork, submit issues, or send pull requests!
 
 ## License
 MIT License
-```
